@@ -148,7 +148,6 @@
 }
 
 .eae-pb-inner-line {
-    content: "";
     background-color: yellow;
     width: inherit;
     position: absolute;
